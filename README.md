@@ -2,7 +2,7 @@
 
 **A simple command line application to download content from [Teca Digitale](https://librarsi.comune.palermo.it/librarsidigitale/opac/librarsi/index.jsp) (Biblioteca comunale di Palermo Leonardo Sciascia).**
 
-The application is developed and maintained on [Manjaro Linux](https://manjaro.org/) and can be run on Linux systems. Development of a Windows version can be [requested](mailto:gaaldavid@tuta.io?subject=[GitHub]%20palermo-grab%20windows).
+The application is developed and maintained on [Manjaro Linux](https://manjaro.org/) and can be run on Linux systems. Development of a Windows version can be [requested](mailto:gaaldavid[at]tuta.io?subject=[GitHub]%20palermo-grab%20windows).
 
 ## Installation
 
@@ -32,4 +32,4 @@ The update.sh file prompts the user, then updates the git repository and the Pyt
 
 ## Reporting errors
 
-Any error can be reported through [e-mail](mailto:gaaldavid@tuta.io?subject=[GitHub]%20palermo-grab%20error) with the exact error message or console screenshot.
+Any error can be reported through [e-mail](mailto:gaaldavid[at]tuta.io?subject=[GitHub]%20palermo-grab%20error) with the exact error message or console screenshot.
